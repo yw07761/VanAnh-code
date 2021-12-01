@@ -1,0 +1,15 @@
+Con co be be no dau canh....,A. Tre,B. Me,C. Khe,D. Buoi,1
+Nhao lon va ao thuat thuoc bo mon nghe thuat nao?,A. Cheo,B. Tuong,C. Xiec,D. Ca tru,3
+Dau la ten mot loai benh tren lua?,A. Dao trang,B. Dao li,C. Dao on,D. Dao Hanh,3
+Dau la ten mot ngoi chua noi tieng o Thai Binh?,A. Chua Dau,B. Chua keo, C. Chua Dong,D. Chua Hang,2
+Ga va trung, cai nao co truoc?,A. Ga,B. Trung,C. Ca hai deu co truoc,D. Ca hai deu khong co truoc,2
+Da Nang di den Lao bang duong bien mat bao lau?,A. 1 tieng,B. 5 tieng,C. 7 tieng,D. khong di duoc,4
+Noi nao con trai co the sinh con?,A. Trong rung,B. Benh vien,C. Rung ram,D. Duoi nuoc,4
+Benh gi bac si bo tay?A. HIV,B. Ung thu,C. Viem phoi,D. Gay tay,4
+Mi an lien (mi goi) duoc cho la co xuat xu tu quoc gia nao?,A. Han Quoc,B. Trung Quoc,C. My,D. Nhat Ban,4
+Di mot ngay dang...,A. Ton may chuc ngan tien com,B. Hoc mot sang khon,C. Em di xa qua,D. Va khong co sau do nua,2
+Thuc an nao sau day thuoc nhom thuc an chua nhieu bot duong?,A. Xoai,B. Chocolate,C. Gao,D. Thit,3
+Don vi do dung luong bo nho nao lon nhat?,A. TB,B. GB,C. MB,D. KB,1
+Nguoi dep vi lua...tot vi phan,A. Dat,B. Nuoc,C. Mua,D. Lua,4
+Quoc gia co dien tich lon thu 2 the gioi la,A. Nga,B. My,C. Trung Quoc,D. Canada,4
+Silic la?,A. Kim loai,B. Phi kim,C. Axit,D. Bazo,2

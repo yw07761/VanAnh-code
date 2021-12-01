@@ -1,0 +1,39 @@
+"Cham Zn" la gi?,A. Buon ba,B. Hoa hoc,C. Tram cam,D. Gian doi,3
+"Phanh xich lo" la gi?,A. Phanh xe,B. Om,C. Nam tay,D. Hon,4
+Me thuong con thi con giong...,A. Me,B. Ba,C. Bac dau ngo,D. Ong hang xom,2
+Con nguoi phat trien nhanh nhat khi nao?,A. Tuoi day thi,B. Tuoi truong thanh,C. Tu luc em be chua duoc sinh ra,D. Tu luc sinh ra den khi chet di,3
+Co quan lon nhat tren co the con nguoi la gi?,A. Da, B. Nao,C. Da day,D. Tim,1
+Con nguoi co bao nhieu giac quan?,A. 4,B. 5,C. 6,D. 7,2
+Do vat nao duoc dung de lam phang quan ao?,A. Ban dap,B. Ban tinh,C. Ban la,D. Ban bac,3
+Tu nao duoi day khong phai tu tuong thanh?,A. Leng keng,B. Xao xac,C. Lop dop,D. Bong benh,4
+Dong Bat (THB) la don vi tien te cua nuoc nao?,A. Lao,B. Campuchia,C. Thai Lan,D. An Do,3
+Bai tho "Nang moi" cua Luu Trong Lu viet ve ai?,A. Me,B. Vo,C. Ba,D. Em gai,1
+Thuy dien Thac Ba duoc xay dung tren con song nao?,A. Song Cau,B. Song Thuong,C. Song Chay,D. Song Luc Nam,3
+Liet sy Dang Thuy Tram da chien dau va hi sinh o dau?,A. Duc Pho,B. Ben Thuy,C. Cu Chi,D. Dong Hoi,1
+Khi bi chong mat do thieu mau thi ta nen dung?,A. Vitamin A,B. Vitamin D,C. Vitamin B12,D. Vitamin K,3
+Nhac den tac pham "Muoi hai ben nuoc" la nhac đen nha tho?,A. Xuan Dieu,B. Che Lan Vien,C. Huy Can,D. Nguyen Binh,4
+Dau la ten mot loai banh?,A. Da xanh,B. Da lon,C. Da bo,D. Da vang,2
+Ung dung GoogleMaps dung de lam gi?,A. Chi duong,B. Chat,C. Choi game,D. Chup anh,1
+Nguoi bi dem ra xet xu truoc toa an duoc goi la?,A. Nguyen cao,B. Bi cao,C. Nguyen don,C. Bi don,2
+Oscar la giai thuong danh gia trong linh vuc nao?,A. Dien anh,B. Kich noi,C. Hoi hoa,D. Van hoc,1
+Dau la ten mot loai hoa?,A. Ly,B. Tach,C. Chen,D. To,1
+Song am khong the truyen duoc trong moi truong nao?,A. Go,B. Khong khi,C. Sat,D. Chan khong,4
+"Song trong doi song can co mot tam long" la loi ca trong nhac pham nao cua Trinh Cong Son?,A. Cat bui,B. De gio cuon di,C. Ben doi hiu quanh,D. Ta thay gi dem nay,2
+Nha Hau Le duoc thanh lap sau thang loi cua khoi nghia nao?,A. Ham Tu,B. Lam Son,C. Bac Son,D. Dong Son,2
+Nga voi la do bo phan nao bien doi thanh?,A. Mui,B. Rang cua,C. Cam,D. Xuong tran,2
+Te bao nao la loai te bao dai nhat trong co the nguoi?,A. Te bao que,B. Te bao xuong,C. Te bao than kinh,D. Te bao non,3
+Song Me Kong chay qua may quoc gia?,A. 5,B. 6,C. 7,D. 8,2
+Rang moc sau cung tren ham la rang gi?,A. Rang khon,B. Rang cua,C. Rang sua,D. Rang cam,1
+Dau la ten mot loai mu?,A. Luoi hai,B. Luoi trai,C. Luoi le,D. Luoi cua,2
+Bay chu lun trong truyen co tich "Nang bach tuyet va bay chu lun" lam nghe gi?,A. Tho ren,B. Tho mo,C. Tho san,D. Tho may,2
+Nguoi ta thuong nau canh cua voi thu gi?,A. Cu cai,B. Rau day,C. Moc nhi,D. Xup lo xanh,2
+"El Nino" la gi?,A. Mot loai duong xi,B. Mot dieu nhay,C. Mot khu rung o Chau Phi,D. Mot hien tuong thoi tiet,4
+"Bu" la gi?,A. Mot loai khoa,B. Me,C. Mot dieu hat,C. Mot laoi gia vi,2
+Dau la mot sang tac ca Son Tung M-TP?,A. Noi nay co thim,B. Noi nay co chi,C. Noi nay co anh,D. Noi nay co chu,3
+"Thinh" duoc lam tu gi?,A. Gao,B. Mia,C. Thit,D. Cu cai,1
+Dau la ten mot ban nhac Rock?,A. Buc thu,B. Buc tranh,C. Buc binh phong, D. Buc tuong,4
+Loai chim nao sau day co the bat chuoc duoc tieng nguoi?,A. Chich bong,B. Hoa mi,C. Qua,D. Vet,4
+Dau la loai chao khac voi cac mon con lai?,A. Chao ga,B. Chao bo,C. Chao heo,D. Chao vit,3
+Phan mem nao dung de giai nen du lieu?,A. Vietkey,B. Winrar,C. Unikey,D. Adobe reader,2
+Bo phim "Chi Dau" duoc chuyen the tu tac pham nao?,A. Nguoi me cam sung,B. Vo chong A Phu,C. Tat den,D. Lao Hac,3
+Cai gi trong trang ngoai xanh trong dau trong hanh roi tha heo vao?,A. Banh chung,B. Banh it,C. Banh da,D. Banh gio,1
